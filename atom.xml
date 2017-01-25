@@ -4,7 +4,7 @@
   <title><![CDATA[Lex Cui's Blog]]></title>
   <link href="http://lexcui.github.io/atom.xml" rel="self"/>
   <link href="http://lexcui.github.io/"/>
-  <updated>2017-01-25T11:46:26+08:00</updated>
+  <updated>2017-01-25T14:30:46+08:00</updated>
   <id>http://lexcui.github.io/</id>
   <author>
     <name><![CDATA[Lex Cui]]></name>
@@ -18,8 +18,13 @@
     <link href="http://lexcui.github.io/blog/2017/01/25/da-ge-xbo-ke-wan-wan/"/>
     <updated>2017-01-25T11:26:37+08:00</updated>
     <id>http://lexcui.github.io/blog/2017/01/25/da-ge-xbo-ke-wan-wan</id>
-    <content type="html"><![CDATA[<p>hello?
-[aaa]aa[]</p>
+    <content type="html"><![CDATA[<ul>
+<li>服务：<a href="https://github.com">Github</a></li>
+<li>博客生成工具：<a href="http://octopress.org/">octopress</a></li>
+<li>主题: <a href="https://github.com/dim0627/flatten">flatten</a></li>
+<li>Markdown编辑工具: <a href="http://macdown.uranusjr.com/">Macdown</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
